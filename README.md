@@ -25,5 +25,12 @@ My Leetcode's solutions
     <td>Python</td>
     <td>Medium</td>
   </tr>
+  <tr>
+    <td>9</td>
+    <td>Palindrome Number</td>
+    <td>C</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0009.%20Palindrome%20Number/Palindrome_Number.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
 </tbody>
 </table>
