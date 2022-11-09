@@ -32,5 +32,12 @@ My Leetcode's solutions
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0009.%20Palindrome%20Number/Palindrome_Number.py">Python</a></td>
     <td>Easy</td>
   </tr>
+  <tr>
+    <td>13</td>
+    <td>Roman to Integer</td>
+    <td>C</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0013.%20Roman%20to%20Integer/Roman_to_Integer.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
 </tbody>
 </table>
