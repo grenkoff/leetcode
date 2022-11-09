@@ -15,7 +15,7 @@ My Leetcode's solutions
     <td>1</td>
     <td>Two Sum</td>
     <td>C</td>
-    <td>Python</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0001.%20Palindrome%20Number/Two_Sum.py">Python</a></td>
     <td>Easy</td>
   </tr>
   <tr>
