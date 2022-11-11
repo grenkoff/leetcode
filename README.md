@@ -34,10 +34,16 @@ My Leetcode's solutions
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0013.%20Roman%20to%20Integer/Roman_to_Integer.py">Python</a></td>
     <td>Easy</td>
   </tr>
-    <tr>
+  <tr>
     <td>14</td>
     <td>Longest Common Prefix</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0014.%20Longest%20Common%20Prefix/Longest_Common_Prefix.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td>20</td>
+    <td>Valid Parentheses</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0020.%20Valid%20Parentheses/Valid_Parentheses.py">Python</a></td>
     <td>Easy</td>
   </tr>
 </tbody>
