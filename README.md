@@ -5,7 +5,6 @@ My Leetcode's solutions
 <tr>
 <th>#</th>
 <th>Title</th>
-<th>C Solution</th>
 <th>Python Solution</th>
 <th>Difficulty</th>
 </tr>
@@ -14,29 +13,31 @@ My Leetcode's solutions
   <tr>
     <td>1</td>
     <td>Two Sum</td>
-    <td>C</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0001.%20Two%20Sum/Two_Sum.py">Python</a></td>
     <td>Easy</td>
   </tr>
   <tr>
     <td>3</td>
     <td>Longest Substring Without Repeating Characters</td>
-    <td>C</td>
     <td>Python</td>
     <td>Medium</td>
   </tr>
   <tr>
     <td>9</td>
     <td>Palindrome Number</td>
-    <td>C</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0009.%20Palindrome%20Number/Palindrome_Number.py">Python</a></td>
     <td>Easy</td>
   </tr>
   <tr>
     <td>13</td>
     <td>Roman to Integer</td>
-    <td>C</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0013.%20Roman%20to%20Integer/Roman_to_Integer.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+    <tr>
+    <td>14</td>
+    <td>Longest Common Prefix</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0014.%20Longest%20Common%20Prefix/Longest_Common_Prefix.py">Python</a></td>
     <td>Easy</td>
   </tr>
 </tbody>
