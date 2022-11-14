@@ -46,5 +46,11 @@ My Leetcode's solutions
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0020.%20Valid%20Parentheses/Valid_Parentheses.py">Python</a></td>
     <td>Easy</td>
   </tr>
+  <tr>
+    <td>21</td>
+    <td>Marge Two Sorted Lists</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0021.%20Merge%20Two%20Sorted%20Lists/Merge_Two_Sorted_Lists.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
 </tbody>
 </table>
