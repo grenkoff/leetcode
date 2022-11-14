@@ -52,5 +52,17 @@ My Leetcode's solutions
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0021.%20Merge%20Two%20Sorted%20Lists/Merge_Two_Sorted_Lists.py">Python</a></td>
     <td>Easy</td>
   </tr>
+  <tr>
+    <td>26</td>
+    <td>Remove Duplicates from Sorted Array</td>
+    <td>Python</td>
+    <td>Easy</td>
+  </tr>
+  <tr>
+    <td>66</td>
+    <td>Plus One</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0066.%20Plus%20One/Plus_One.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
 </tbody>
 </table>
