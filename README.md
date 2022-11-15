@@ -64,5 +64,11 @@ My Leetcode's solutions
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0066.%20Plus%20One/Plus_One.py">Python</a></td>
     <td>Easy</td>
   </tr>
+  <tr>
+    <td>69</td>
+    <td>Sqrt(x)</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0069.%20Sqrt(x)/Sqrt(x).py">Python</a></td>
+    <td>Easy</td>
+  </tr>
 </tbody>
 </table>
