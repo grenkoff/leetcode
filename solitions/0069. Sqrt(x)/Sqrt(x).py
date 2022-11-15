@@ -1,5 +1,6 @@
 # https://leetcode.com/problems/sqrtx/
 
+# Binary Search. O(log n)
 class Solution:
     def mySqrt(self, x: int) -> int:
         if x <= 1:
