@@ -82,5 +82,11 @@ My Leetcode's solutions
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0088.%20Merge%20Sorted%20Array/Merge_Sorted_Array.py">Python</a></td>
     <td>Easy</td>
   </tr>
+  <tr>
+    <td>125</td>
+    <td>Valid Palindrome</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0125.%20Valid%20Palindrome/Valid_Palindrome.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
 </tbody>
 </table>
