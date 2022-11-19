@@ -71,6 +71,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>70</td>
+    <td>Climbing Stairs</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0070.%20Climbing%20Stairs/Climbing_Stairs.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>88</td>
     <td>Merge Sorted Array</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0088.%20Merge%20Sorted%20Array/Merge_Sorted_Array.py">Python</a></td>
