@@ -88,5 +88,11 @@ My Leetcode's solutions
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0125.%20Valid%20Palindrome/Valid_Palindrome.py">Python</a></td>
     <td>Easy</td>
   </tr>
+  <tr>
+    <td>202</td>
+    <td>Happy Number</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0202.%20Happy%20Number/Happy_Number.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
 </tbody>
 </table>
