@@ -94,5 +94,11 @@ My Leetcode's solutions
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0202.%20Happy%20Number/Happy_Number.py">Python</a></td>
     <td>Easy</td>
   </tr>
+  <tr>
+    <td>344</td>
+    <td>Reverse String</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0344.%20Reverse%20String/Reverse_String.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
 </tbody>
 </table>
