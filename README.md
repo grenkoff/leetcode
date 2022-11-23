@@ -89,6 +89,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>108</td>
+    <td>Convert Sorted Array to Binary Search Tree</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0108.%20Convert%20Sorted%20Array%20to%20Binary%20Search%20Tree/Convert_Sorted_Array_to_Binary_Search_Tree.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>118</td>
     <td>Pascal's Triangle</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0118.%20Pascal's%20Triangle/Pascals_Triangle.py">Python</a></td>
