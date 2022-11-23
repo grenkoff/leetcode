@@ -101,6 +101,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>206</td>
+    <td>Reverse Linked List</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0206.%20Reverse%20Linked%20List/Reverse_Linked_List.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>242</td>
     <td>Valid Anagram</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0242.%20Valid%20Anagram/Valid_Anagram.py">Python</a></td>
