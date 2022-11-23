@@ -137,6 +137,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>268</td>
+    <td>Missing Number</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0268.%20Missing%20Number/Missing_Number.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>283</td>
     <td>Move Zeroes</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0283.%20Move%20Zeroes/Move_Zeroes.py">Python</a></td>
