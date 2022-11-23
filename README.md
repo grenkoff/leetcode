@@ -136,5 +136,11 @@ My Leetcode's solutions
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0344.%20Reverse%20String/Reverse_String.py">Python</a></td>
     <td>Easy</td>
   </tr>
+  <tr>
+    <td>412</td>
+    <td>Fizz Buzz</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0412.%Fizz%Buzz/Fizz_Buzz.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
 </tbody>
 </table>
