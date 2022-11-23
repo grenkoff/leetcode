@@ -125,6 +125,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>217</td>
+    <td>Contains Duplicate</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0217.%20Contains%20Duplicate/Contains_Duplicate.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>242</td>
     <td>Valid Anagram</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0242.%20Valid%20Anagram/Valid_Anagram.py">Python</a></td>
