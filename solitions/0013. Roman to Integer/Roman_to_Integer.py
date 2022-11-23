@@ -2,11 +2,13 @@
 
 class Solution:
     def romanToInt(self, s: str) -> int:
-        roman = {'CM': 900, 'CD':400, 'XC': 90, 'XL': 40, 'IX': 9, 'IV': 4, 'M': 1000, 'D': 500, 'C': 100, 'L': 50, 'X': 10, 'V': 5, 'III': 3, 'II': 2, 'I': 1}
+        # largest to smallest: add them up
+        # smaller before larger: subtract smaller
+        roman = {'I': 1, 'V': 5, 'X': 10, 'L': 50, 'C': 100, 'D': 500, 'M': 1000}
         res = 0
-        while s != '':
-            for i in roman:
-                if i in s:
-                    res += roman[i]
-                    s = s.replace(i, '', 1)
+        for i in range(len(s)):
+            if i + 1 < len(s) and roman[s[i]] < roman[s[i + 1]]:
+                res -= roman[s[i]]
+            else:
+                res += roman[s[i]]
         return res
