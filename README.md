@@ -89,6 +89,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>118</td>
+    <td>Pascal's Triangle</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0118.%20Pascal's%20Triangle/Pascals_Triangle.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>125</td>
     <td>Valid Palindrome</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0125.%20Valid%20Palindrome/Valid_Palindrome.py">Python</a></td>
