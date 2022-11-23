@@ -149,6 +149,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>326</td>
+    <td>Power of Three</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0326.%20Power%20of%20Three/Power_of_Three.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>344</td>
     <td>Reverse String</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0344.%20Reverse%20String/Reverse_String.py">Python</a></td>
