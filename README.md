@@ -131,6 +131,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>283</td>
+    <td>Move Zeroes</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0283.%20Move%20Zeroes/Move_Zeroes.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>344</td>
     <td>Reverse String</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0344.%20Reverse%20String/Reverse_String.py">Python</a></td>
