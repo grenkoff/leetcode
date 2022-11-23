@@ -155,6 +155,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>387</td>
+    <td>First Unique Character in a String</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0387.%20First%20Unique%20Character%20in%20a%20String/First_Unique_Character_in_a_String.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>412</td>
     <td>Fizz Buzz</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0412.%Fizz%Buzz/Fizz_Buzz.py">Python</a></td>
