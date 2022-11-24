@@ -125,6 +125,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>171</td>
+    <td>Excel Sheet Column Number</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0171.%20Excel%20Sheet%20Column%20Number/Excel_Sheet_Column_Number.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>191</td>
     <td>Number of 1 Bits</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0191.%20Number%20of%201%20Bits/Number_of_1_Bits.py">Python</a></td>
