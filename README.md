@@ -119,6 +119,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>191</td>
+    <td>Number of 1 Bits</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0191.%20Number%20of%201%20Bits/Number_of_1_Bits.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>202</td>
     <td>Happy Number</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0202.%20Happy%20Number/Happy_Number.py">Python</a></td>
