@@ -107,6 +107,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>121</td>
+    <td>Best Time to Buy and Sell Stock</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0121.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock/Best_Time_to_Buy_and_Sell_Stock.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>125</td>
     <td>Valid Palindrome</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0125.%20Valid%20Palindrome/Valid_Palindrome.py">Python</a></td>
