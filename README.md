@@ -125,6 +125,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>160</td>
+    <td>Intersection of Two Linked Lists</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0160.%20Intersection%20of%20Two%20Linked%20Lists/Intersection_of_Two_Linked_Lists.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>169</td>
     <td>Majority Element</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0169.%20Majority%20Element/Majority_Element.py">Python</a></td>
