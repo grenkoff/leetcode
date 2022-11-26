@@ -89,6 +89,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>101</td>
+    <td>Symmetric Tree</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0101.%20Symmetric%20Tree/Symmetric Tree.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>104</td>
     <td>Maximum Depth of Binary Tree</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0104.%20Maximum%20Depth%20of%20Binary%20Tree/Maximum_Depth_of_Binary_Tree.py">Python</a></td>
