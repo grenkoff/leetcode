@@ -149,6 +149,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>190</td>
+    <td>Reverse Bits</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0190.%20Reverse%20Bits/Reverse_Bits.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>191</td>
     <td>Number of 1 Bits</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0191.%20Number%20of%201%20Bits/Number_of_1_Bits.py">Python</a></td>
