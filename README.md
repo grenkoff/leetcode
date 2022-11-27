@@ -131,6 +131,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>141</td>
+    <td>Linked List Cycle</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0141.%20Linked%20List%20Cycle/Linked_List_Cycle.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>160</td>
     <td>Intersection of Two Linked Lists</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0160.%20Intersection%20of%20Two%20Linked%20Lists/Intersection_of_Two_Linked_Lists.py">Python</a></td>
