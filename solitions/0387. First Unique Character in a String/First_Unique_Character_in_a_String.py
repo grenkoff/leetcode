@@ -31,7 +31,7 @@ class Solution:
                 return s.index(a)
         return -1
     
-    # Approach using find() & rfind()
+    # Fastest Approach using find() & rfind()
     # Time: O(n), Space: O(1)
     def usingRfind(self, s: str) -> int:
         abc = "abcdefghijklmnopqrstuvwxyz"
