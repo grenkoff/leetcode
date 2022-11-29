@@ -26,6 +26,7 @@ class Solution:
     # Pythonic Approach using collections.Counter()
     # Time: O(n), Space: O(1)
     def usingCounter(self, s: str) -> int:
+        from collections import Counter
         for a, b in Counter(s).items():
             if b == 1:
                 return s.index(a)
