@@ -2,10 +2,9 @@
 
 import sys
 class Solution:
-    ''' Horizontal scanning.
-    Time complexity : O(S), where S is the sum of all characters in all strings.
-    Space complexity : O(1). '''
-    def HorizontalScanning(self, strs: List[str]) -> str:
+    # Horizontal scanning
+    # Time: O(S), where S is the sum of all characters in all strings; Space: O(1)
+    def horizontalScanning(self, strs: List[str]) -> str:
         res = ''
         for i in range(len(strs[0])):
             for s in strs:
@@ -14,10 +13,9 @@ class Solution:
             res += strs[0][i]
         return res
     
-    ''' Vertical scanning.
-    Time complexity : O(S), where S is the sum of all characters in all strings.
-    Space complexity : O(1). '''
-    def VerticalScanning(self, strs: List[str]) -> str:
+    # Vertical scanning
+    # Time: O(S), where S is the sum of all characters in all strings; Space: O(1)
+    def verticalScanning(self, strs: List[str]) -> str:
         res = ''
         if len(strs) == 0:
             return res
@@ -28,8 +26,9 @@ class Solution:
             res += strs[0][i]
         return res
     
-    '''Solution with sort() and zip()'''
-    def SortZip(self, strs: List[str]) -> str:
+    # Solution with sort() and zip()
+    # Time: O(?), Space: O(?)
+    def sortZip(self, strs: List[str]) -> str:
         if not strs:
             return ''
         if len(strs) == 1:
@@ -43,8 +42,9 @@ class Solution:
                 break
         return res
     
-    '''Divide and Conquer'''
-    def DivideConquer(self, strs: List[str]) -> str:
+    # Divide and Conquer
+    # Time: O(?), Space: O(?)
+    def divideConquer(self, strs: List[str]) -> str:
         if len(strs) == 0:
             return ''
         return self.divide(strs, 0, len(strs) - 1)
@@ -64,8 +64,9 @@ class Solution:
             i += 1
         return left[:m]
     
-    '''Binary Search'''
-    def BinarySearch(self, strs: List[str]) -> str:
+    # Binary Search
+    # Time: O(?), Space: O(?)
+    def binarySearch(self, strs: List[str]) -> str:
         if len(strs) == 0:
             return ''
         minLen = sys.maxsize
