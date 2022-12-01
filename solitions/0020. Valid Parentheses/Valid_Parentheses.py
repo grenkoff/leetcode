@@ -1,15 +1,16 @@
 # https://leetcode.com/problems/valid-parentheses/
 
 class Solution:
+    # Stack-based solution
+    # Time: O(n), Space: O(n)
     def isValid(self, s: str) -> bool:
         stack = []
-        closeToOpen = {')': '(', ']': '[', '}': '{'}
-        for i in s:
-            if i in closeToOpen:
-                if stack and stack[-1] == closeToOpen[i]:
-                    stack.pop()
-                else:
-                    return False
+        closeToOpen = {')':'(', '}':'{', ']':'['}
+        for p in s:
+            if p in closeToOpen.values():
+                stack.append(p)
+            elif stack and closeToOpen[p] == stack[-1]:
+                stack.pop()
             else:
-                stack.append(i)
-        return True if not stack else False
+                return False
+        return stack == []
