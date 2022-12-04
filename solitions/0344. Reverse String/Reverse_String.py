@@ -1,6 +1,12 @@
 # https://leetcode.com/problems/reverse-string/
 
 class Solution:
+    # One-Liner Pythonic Approach
+    def oneLiner(self, s: List[str]) -> None:
+        return s.reverse()
+    
+    # Two Pointers Approach
+    # Time: O(n), Space: O(1)
     def reverseString(self, s: List[str]) -> None:
         """
         Do not return anything, modify s in-place instead.
