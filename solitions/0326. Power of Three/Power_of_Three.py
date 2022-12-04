@@ -16,9 +16,10 @@ class Solution:
         return n > 0 and (math.log10(n) / math.log10(3)) % 1 == 0
     
     # Loop Solution
+    # Time: O(log3 n), Space: O(1)
     def loopSolution(self, n: int) -> bool:
         if n < 1:
             return False
-        while(n % 3 == 0):
+        while n % 3 == 0:
             n /= 3
         return n == 1
