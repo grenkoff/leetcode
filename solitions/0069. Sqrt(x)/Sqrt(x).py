@@ -1,8 +1,8 @@
 # https://leetcode.com/problems/sqrtx/
 
 class Solution:
-    # Binary Search
-    # Time: O(logn), Space: O(?)
+    # Iterative Binary Search
+    # Time: O(logn), Space: O(1)
     def mySqrt(self, x: int) -> int:
         if x <= 1:
             return x
@@ -16,6 +16,10 @@ class Solution:
             else:
                 right = mid - 1
         return right
+    
+    # Recursive Binary Search
+    # Time: O(logn), Space: O(logn)
+    
     
     # Newton-Raphson method (read more: https://leetcode.com/problems/sqrtx/discuss/2732386/O(1)-solution-in-python!(Newton-Raphson-method))
     # Time: O(1), Space: O(?)
