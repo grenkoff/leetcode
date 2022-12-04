@@ -5,6 +5,12 @@ class Solution:
     def oneLiner(self, s: List[str]) -> None:
         return s.reverse()
     
+    # Recursive Call Solution
+    # Time: O(n), Space: O(n)
+    
+    # Stack-based Solution
+    # Time: O(n), Space: O(n)
+    
     # Two Pointers Approach
     # Time: O(n), Space: O(1)
     def reverseString(self, s: List[str]) -> None:
