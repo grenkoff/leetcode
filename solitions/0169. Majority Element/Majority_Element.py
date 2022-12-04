@@ -1,7 +1,8 @@
 # https://leetcode.com/problems/majority-element/
 
 class Solution:
-    # Brute Force: Time O(n ** 2), Space O(1)
+    # Brute Force
+    # Time: O(n**2), Space: O(1)
     def majorityElement(self, nums: List[int]) -> int:
         majority_count = len(nums)//2
         for num in nums:
@@ -9,17 +10,20 @@ class Solution:
             if count > majority_count:
                 return num
     
-    # HashMap: Time O(n), Space O(n)
+    # HashMap
+    # Time: O(n), Space: O(n)
     def hashMap(self, nums):
         counts = collections.Counter(nums)
         return max(counts.keys(), key=counts.get)
     
-    # Sorting: Time O(n*lgn), Space O(1) or O(n)
+    # Sorting
+    # Time: O(n*lgn), Space: O(1) or O(n)
     def sorting(self, nums):
         nums.sort()
         return nums[len(nums)//2]
     
-    # Bit Manipulation: Time O(n*logC), Space O(1)
+    # Bit Manipulation
+    # Time: O(n*logC), Space: O(1)
     def bitManipulation(self, nums: List[int]) -> int:
         n = len(nums)
         majority_element = 0
@@ -51,7 +55,8 @@ class Solution:
         
         return majority_element
     
-    # Randomization: Time O(∞), Space O(1)
+    # Randomization
+    # Time: O(∞), Space: O(1)
     def randomization(self, nums):
         majority_count = len(nums)//2
         while True:
@@ -59,7 +64,8 @@ class Solution:
             if sum(1 for elem in nums if elem == candidate) > majority_count:
                 return candidate
     
-    # Divide and Conquer: Time O(n*lgn), Space O(lgn)
+    # Divide and Conquer
+    # Time: O(n*lgn), Space: O(lgn)
     def divideConquer(self, nums, lo=0, hi=None):
         def majority_element_rec(lo, hi):
             # base case; the only element in an array of size 1 is the majority
@@ -84,7 +90,8 @@ class Solution:
 
         return majority_element_rec(0, len(nums)-1)
     
-    # Boyer-Moore Voting Algorithm: Time O(n), Space O(1)
+    # Boyer-Moore Voting Algorithm
+    # Time: O(n), Space: O(1)
     def boyerMoore(self, nums):
         count = 0
         candidate = None
