@@ -1,6 +1,8 @@
 # https://leetcode.com/problems/fizz-buzz/
 
 class Solution:
+    # if-else Solution
+    # Time: O(n), Space: O(n)
     def fizzBuzz(self, n: int) -> List[str]:
         a = []
         for i in range(1, n + 1):
