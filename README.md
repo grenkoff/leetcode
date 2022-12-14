@@ -59,6 +59,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>46</td>
+    <td>Permutations</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0046.%20Permutations/Permutations.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
+  <tr>
     <td>66</td>
     <td>Plus One</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0066.%20Plus%20One/Plus_One.py">Python</a></td>
