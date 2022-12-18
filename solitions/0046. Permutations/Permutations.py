@@ -13,9 +13,10 @@ class Solution:
             perms = new_perms
         return perms
     
+    
     # Recursive with backtracking (implicit stack)
     # Time: O(n!), Space: O(n!)
-    def permute(self, nums):
+    def withBacktracking(self, nums):
         def recursive(nums, perm=[], res=[]):
             if not nums:
                 res.append(perm[::])
@@ -26,3 +27,35 @@ class Solution:
                 perm.pop()
             return res
         return recursive(nums)
+
+    
+    # DFS Iterative with Explicit Stack
+    # Time: O(n!), Space: O(n!)
+    def permute(self, nums):
+        stack = [(nums, [])]
+        res = []
+        while stack:
+            nums, path = stack.pop()
+            if not nums:
+                res.append(path)
+            for i in range(len(nums)):
+                newNums = nums[:i] + nums[i+1:]
+                stack.append((newNums, path+[nums[i]]))
+        return res
+    
+    
+    # BFS Iterative with a queue
+    # Time: O(n!), Space: O(n!)
+    def permute(self, nums):
+        from collections import deque
+        q = deque()
+        q.append((nums, []))  # -- nums, path (or perms)
+        res = []
+        while q:
+            nums, path = q.popleft()
+            if not nums:
+                res.append(path)
+            for i in range(len(nums)):
+                newNums = nums[:i] + nums[i+1:]
+                q.append((newNums, path+[nums[i]]))
+        return res
