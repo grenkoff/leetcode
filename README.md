@@ -71,6 +71,12 @@ My Leetcode's solutions
     <td>Medium</td>
   </tr>
   <tr>
+    <td>48</td>
+    <td>Rotate Image</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0048.%20Rotate%20Image/Rotate_Image.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
+  <tr>
     <td>66</td>
     <td>Plus One</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0066.%20Plus%20One/Plus_One.py">Python</a></td>
