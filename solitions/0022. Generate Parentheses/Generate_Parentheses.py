@@ -59,3 +59,14 @@ class Solution:
                 for right in self.generateParenthesis(N-1-c):
                     ans.append('({}){}'.format(left, right))
         return ans
+    
+    
+    # DP Solution
+    # Time: O(?), Space: O(?)
+    def dpSolution(self, n):
+        dp = [[] for i in range(n + 1)]
+        dp[0].append('')
+        for i in range(n + 1):
+            for j in range(i):
+                dp[i] += ['(' + x + ')' + y for x in dp[j] for y in dp[i - j - 1]]
+        return dp[n]
