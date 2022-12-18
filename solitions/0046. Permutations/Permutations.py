@@ -1,4 +1,7 @@
 # https://leetcode.com/problems/permutations/
+# https://leetcode.com/problems/permutations/solutions/2074177/Mathematical-proof-that-time-complexity-is-O(e-*-n!)-NOT-O(n-*-n/
+# https://leetcode.com/problems/permutations/solutions/551252/short-recursive-python-solution/
+# https://leetcode.com/problems/permutations/solutions/18241/one-liners-in-python/
 
 class Solution:
     # Iterative Solution
@@ -29,9 +32,14 @@ class Solution:
         return recursive(nums)
 
     
+    # Recursive without backtracking (implicit stack)
+    # Time: O(n!), Space: O(n!)
+    # Approach 2 --> https://leetcode.com/problems/permutations/solutions/993970/python-4-approaches-visuals-time-complexity-analysis/
+    
+    
     # DFS Iterative with Explicit Stack
     # Time: O(n!), Space: O(n!)
-    def permute(self, nums):
+    def dfs(self, nums):
         stack = [(nums, [])]
         res = []
         while stack:
@@ -46,7 +54,7 @@ class Solution:
     
     # BFS Iterative with a queue
     # Time: O(n!), Space: O(n!)
-    def permute(self, nums):
+    def bfs(self, nums):
         from collections import deque
         q = deque()
         q.append((nums, []))  # -- nums, path (or perms)
