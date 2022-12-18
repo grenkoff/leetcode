@@ -53,6 +53,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>22</td>
+    <td>Generate Parentheses</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0022.%20Generate%20Parentheses/Generate_Parentheses.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
+  <tr>
     <td>26</td>
     <td>Remove Duplicates from Sorted Array</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0026.%20Remove%20Duplicates%20from%20Sorted%20Array/Remove_Duplicates_from_Sorted_Array.py">Python</a></td>
