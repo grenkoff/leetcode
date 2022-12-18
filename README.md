@@ -83,6 +83,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>78</td>
+    <td>Subsets</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0078.%20Subsets/Subsets.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
+  <tr>
     <td>88</td>
     <td>Merge Sorted Array</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0088.%20Merge%20Sorted%20Array/Merge_Sorted_Array.py">Python</a></td>
