@@ -233,6 +233,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>289</td>
+    <td>Game of Life</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0289.%20Game%20of%20Life/Game_of_Life.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
+  <tr>
     <td>326</td>
     <td>Power of Three</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0326.%20Power%20of%20Three/Power_of_Three.py">Python</a></td>
