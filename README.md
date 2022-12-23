@@ -149,6 +149,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>122</td>
+    <td>Best Time to Buy and Sell Stock II</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0122.%20Best%20Time%20to%20Buy%20and%20Sell%20Stock%20II/Best_Time_to_Buy_and_Sell_Stock_II.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
+  <tr>
     <td>125</td>
     <td>Valid Palindrome</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0125.%20Valid%20Palindrome/Valid_Palindrome.py">Python</a></td>
