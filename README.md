@@ -77,6 +77,12 @@ My Leetcode's solutions
     <td>Medium</td>
   </tr>
   <tr>
+    <td>49</td>
+    <td>Group Anagrams</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0049.%20Group%20Anagrams/Group_Anagrams.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
+  <tr>
     <td>66</td>
     <td>Plus One</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0066.%20Plus%20One/Plus_One.py">Python</a></td>
