@@ -161,6 +161,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>131</td>
+    <td>Palindrome Partitioning</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0131.%20Palindrome%20Partitioning/Palindrome_Partitioning.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>136</td>
     <td>Single Number</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0136.%20Single%20Number/Single_Number.py">Python</a></td>
