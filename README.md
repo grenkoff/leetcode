@@ -83,6 +83,12 @@ My Leetcode's solutions
     <td>Medium</td>
   </tr>
   <tr>
+    <td>62</td>
+    <td>Unique Paths</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0062.%20Unique%20Paths/Unique_Paths.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
+  <tr>
     <td>66</td>
     <td>Plus One</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0066.%20Plus%20One/Plus_One.py">Python</a></td>
