@@ -65,6 +65,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>36</td>
+    <td>Valid Sudoku</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0036.%20Valid%20Sudokus/Valid_Sudoku.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
+  <tr>
     <td>46</td>
     <td>Permutations</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0046.%20Permutations/Permutations.py">Python</a></td>
