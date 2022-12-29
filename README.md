@@ -41,7 +41,7 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
-    <td>200</td>
+    <td>20</td>
     <td>Valid Parentheses</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0020.%20Valid%20Parentheses/Valid_Parentheses.py">Python</a></td>
     <td>Easy</td>
