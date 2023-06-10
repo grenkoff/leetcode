@@ -18,5 +18,5 @@ class Solution:
 
 a = Solution()
 
-print(a.containsDuplicate([1, 2, 3, 1]))
-print(a.containsDuplicate([1, 2, 3, 4]))
+print(a.containsDuplicate([1, 2, 3, 1])) # True
+print(a.containsDuplicate([1, 2, 3, 4])) # False
