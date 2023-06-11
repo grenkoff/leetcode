@@ -293,6 +293,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>347</td>
+    <td>Top K Frequent Elements</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0347.%20Top%20K%20Frequent%20Elements/Top_K_Frequent_Elements.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
+  <tr>
     <td>350</td>
     <td>Intersection of Two Arrays II</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0350.%20Intersection%20of%20Two%20Arrays%20II/Intersection_of_Two_Arrays_II.py">Python</a></td>
