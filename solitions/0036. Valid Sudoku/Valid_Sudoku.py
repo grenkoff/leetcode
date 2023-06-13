@@ -3,11 +3,11 @@
 class Solution:
     def isValidSudoku(self, board: list[list[str]]) -> bool:
         res = []
-        for i in range(9):
-            for j in range(9):
-                element =board[i][j]
+        for row in range(9):
+            for col in range(9):
+                element =board[row][col]
                 if element != '.':
-                    res += [(i,element),(element,j),(i//3,j//3,element)]
+                    res += [(row,element),(element,col),(row//3,col//3,element)]
                     if len(res) != len(set(res)):
                         return False
         return True
