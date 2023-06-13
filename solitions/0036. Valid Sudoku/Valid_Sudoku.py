@@ -5,7 +5,7 @@ class Solution:
         res = []
         for row in range(9):
             for col in range(9):
-                element =board[row][col]
+                element = board[row][col]
                 if element != '.':
                     res += [(row,element),(element,col),(row//3,col//3,element)]
                     if len(res) != len(set(res)):
