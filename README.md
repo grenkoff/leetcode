@@ -179,6 +179,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>128</td>
+    <td>Longest Consecutive Sequence</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0128.%20Longest%20Consecutive%20Sequence/Longest_Consecutive_Sequence.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
+  <tr>
     <td>131</td>
     <td>Palindrome Partitioning</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0131.%20Palindrome%20Partitioning/Palindrome_Partitioning.py">Python</a></td>
