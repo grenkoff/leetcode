@@ -276,6 +276,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>271</td>
+    <td>Encode and Decode Strings</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0271.%20Encode%20and%20Decode%20Strings/Encode_and_Decode_Strings.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
+  <tr>
     <td>283</td>
     <td>Move Zeroes</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solitions/0283.%20Move%20Zeroes/Move_Zeroes.py">Python</a></td>
