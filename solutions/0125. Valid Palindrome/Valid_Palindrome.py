@@ -27,7 +27,7 @@ class Solution:
         return True
 
     # Could write own alpha-numeric function
-    def alphanum(self, c):
+    def alphanum(self, c: str) -> bool:
         return "A" <= c <= "Z" or "a" <= c <= "z" or "0" <= c <= "9"
     
 
@@ -35,4 +35,5 @@ a = Solution()
 
 print(a.isPalindrome("A man, a plan, a canal: Panama")) # True
 print(a.isPalindrome("race a car")) # False
+print(a.isPalindrome("raCa a car")) # True
 print(a.isPalindrome(" ")) # True
