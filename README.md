@@ -41,6 +41,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>15</td>
+    <td>3Sum</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0015.%203Sum/3Sum.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
+  <tr>
     <td>20</td>
     <td>Valid Parentheses</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0020.%20Valid%20Parentheses/Valid_Parentheses.py">Python</a></td>
