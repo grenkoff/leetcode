@@ -209,6 +209,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>167</td>
+    <td>Two Sum II - Input Array Is Sorted</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0167.%20Two%20Sum%20II%20-%20Input%20Array%20Is%20Sorted/Two_Sum_II_-_Input_Array_Is_Sorted.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
+  <tr>
     <td>169</td>
     <td>Majority Element</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0169.%20Majority%20Element/Majority_Element.py">Python</a></td>
