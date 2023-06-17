@@ -4,13 +4,22 @@ class Solution:
     # Stack-based solution
     # Time: O(n), Space: O(n)
     def isValid(self, s: str) -> bool:
+        Map = {")": "(", "]": "[", "}": "{"}
         stack = []
-        closeToOpen = {')':'(', '}':'{', ']':'['}
-        for p in s:
-            if p in closeToOpen.values():
-                stack.append(p)
-            elif stack and closeToOpen[p] == stack[-1]:
-                stack.pop()
-            else:
+
+        for c in s:
+            if c not in Map:
+                stack.append(c)
+                continue
+            if not stack or stack[-1] != Map[c]:
                 return False
-        return stack == []
+            stack.pop()
+
+        return not stack
+
+
+a = Solution()
+
+print(a.isValid("()")) # True
+print(a.isValid("()[]{}")) # True
+print(a.isValid("(]")) # False
