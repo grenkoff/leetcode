@@ -222,6 +222,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>150</td>
+    <td>Evaluate Reverse Polish Notation</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0150.%20Evaluate%20Reverse%20Polish%20Notation/Evaluate_Reverse_Polish_Notation.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
+  <tr>
     <td>155</td>
     <td>Min Stack</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0155.%20Min%20Stack/Min_Stack.py">Python</a></td>
