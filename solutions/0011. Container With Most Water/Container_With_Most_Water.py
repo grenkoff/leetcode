@@ -12,10 +12,10 @@ class Solution:
             max_area = max(max_area, min(height[l], height[r]) * (r - l))
             if height[l] < height[r]:
                 l += 1
-            elif height[r] <= height[l]:
+            else:
                 r -= 1
             
-            if (r-l) * h <= max_area:
+            if (r - l) * h <= max_area:
                 break 
         return max_area
 
