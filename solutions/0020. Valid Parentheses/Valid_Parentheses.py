@@ -1,25 +1,27 @@
 # https://leetcode.com/problems/valid-parentheses/
 
 class Solution:
-    # Stack-based solution
-    # Time: O(n), Space: O(n)
     def isValid(self, s: str) -> bool:
-        Map = {")": "(", "]": "[", "}": "{"}
+        # Stack-based solution
+        # Time: O(n), Space: O(n)
         stack = []
+        hashmap = {')':'(', '}':'{', ']':'['}
 
-        for c in s:
-            if c not in Map:
-                stack.append(c)
-                continue
-            if not stack or stack[-1] != Map[c]:
+        for p in s:
+            if p in hashmap.values():
+                stack.append(p)
+            elif stack and hashmap[p] == stack[-1]:
+                stack.pop()
+            else:
                 return False
-            stack.pop()
 
-        return not stack
+        return stack == []
 
 
 a = Solution()
 
 print(a.isValid("()")) # True
 print(a.isValid("()[]{}")) # True
+print(a.isValid("([{}])")) # True
+print(a.isValid("[([]){}]")) # True
 print(a.isValid("(]")) # False
