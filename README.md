@@ -222,6 +222,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>155</td>
+    <td>Min Stack</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0155.%20Min%20Stack/Min_Stack.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
+  <tr>
     <td>160</td>
     <td>Intersection of Two Linked Lists</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0160.%20Intersection%20of%20Two%20Linked%20Lists/Intersection_of_Two_Linked_Lists.py">Python</a></td>
