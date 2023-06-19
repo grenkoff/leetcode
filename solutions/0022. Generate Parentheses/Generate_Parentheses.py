@@ -1,7 +1,38 @@
 # https://leetcode.com/problems/generate-parentheses/
 
 class Solution:
-    # Brute Force
+    # Neetcode Backtracking Solution
+    def generateParenthesis(self, n: int) -> list[str]:
+        stack = []
+        res = []
+
+        def backtrack(open_n, closed_n):
+            if open_n == closed_n == n:
+                res.append("".join(stack))
+                return
+
+            if open_n < n:
+                stack.append("(")
+                backtrack(open_n + 1, closed_n)
+                stack.pop()
+            if closed_n < open_n:
+                stack.append(")")
+                backtrack(open_n, closed_n + 1)
+                stack.pop()
+
+        backtrack(0, 0)
+        return res
+
+
+a = Solution()
+
+assert a.generateParenthesis(3) == ["((()))","(()())","(())()","()(())","()()()"]
+assert a.generateParenthesis(1) == ["()"]
+
+
+
+
+# Brute Force
     # Time: O(2**2n * n), Space: O(2**2n * n)
     # def bruteForce(self, n: int) -> List[str]:
     #     def generate(A = []):
@@ -70,26 +101,3 @@ class Solution:
     #         for j in range(i):
     #             dp[i] += ['(' + x + ')' + y for x in dp[j] for y in dp[i - j - 1]]
     #     return dp[n]
-
-
-    # Neetcode Backtracking Solution
-    def generateParenthesis(self, n: int) -> List[str]:
-        stack = []
-        res = []
-
-        def backtrack(openN, closedN):
-            if openN == closedN == n:
-                res.append("".join(stack))
-                return
-
-            if openN < n:
-                stack.append("(")
-                backtrack(openN + 1, closedN)
-                stack.pop()
-            if closedN < openN:
-                stack.append(")")
-                backtrack(openN, closedN + 1)
-                stack.pop()
-
-        backtrack(0, 0)
-        return res
