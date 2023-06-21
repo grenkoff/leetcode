@@ -372,5 +372,11 @@ My Leetcode's solutions
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0412.%20Fizz%20Buzz/Fizz_Buzz.py">Python</a></td>
     <td>Easy</td>
   </tr>
+  <tr>
+    <td>739</td>
+    <td>Daily Temperatures</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0739.%20Daily%20Temperatures/Daily_Temperatures.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
 </tbody>
 </table>
