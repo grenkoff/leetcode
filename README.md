@@ -378,5 +378,11 @@ My Leetcode's solutions
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0739.%20Daily%20Temperatures/Daily_Temperatures.py">Python</a></td>
     <td>Medium</td>
   </tr>
+  <tr>
+    <td>853</td>
+    <td>Car Fleet</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0853.%20Car%20Fleet/Car_Fleet.py">Python</a></td>
+    <td>Medium</td>
+  </tr>
 </tbody>
 </table>
