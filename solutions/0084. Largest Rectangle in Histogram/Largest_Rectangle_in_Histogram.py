@@ -1,3 +1,5 @@
+# https://leetcode.com/problems/largest-rectangle-in-histogram/
+
 class Solution:
     def largestRectangleArea(self, heights: list[int]) -> int:
         # Stack-based solution Time: O(n), Space: O(n)
