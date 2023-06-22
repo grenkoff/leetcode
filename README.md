@@ -379,6 +379,12 @@ My Leetcode's solutions
     <td>Easy</td>
   </tr>
   <tr>
+    <td>704</td>
+    <td>Binary Search</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0704.%20Binary%20Search/Binary_Search.py">Python</a></td>
+    <td>Easy</td>
+  </tr>
+  <tr>
     <td>739</td>
     <td>Daily Temperatures</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0739.%20Daily%20Temperatures/Daily_Temperatures.py">Python</a></td>
