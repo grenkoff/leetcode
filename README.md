@@ -144,6 +144,12 @@ My Leetcode's solutions
     <td>Medium</td>
   </tr>
   <tr>
+    <td>84</td>
+    <td>Largest Rectangle in Histogram</td>
+    <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0084.%20Largest%20Rectangle%20in%20Histogram/Largest_Rectangle_in_Histogram.py">Python</a></td>
+    <td>Hard</td>
+  </tr>
+  <tr>
     <td>88</td>
     <td>Merge Sorted Array</td>
     <td><a href="https://github.com/grenkoff/leetcode/blob/master/solutions/0088.%20Merge%20Sorted%20Array/Merge_Sorted_Array.py">Python</a></td>
